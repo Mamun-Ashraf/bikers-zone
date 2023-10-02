@@ -17,6 +17,11 @@
     width: 50%;
 }
 
+.review-icon {
+    width: 20px;
+    height: 20px;
+}
+
 /* Responsive styles for small device */
 
 @media screen and (max-width:576px) {
